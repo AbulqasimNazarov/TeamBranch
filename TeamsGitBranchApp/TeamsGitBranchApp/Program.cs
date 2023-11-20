@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TeamsGitBranchApp.BackEndJohn;
+using TeamsGitBranchApp.FrontEndAnn;
+
+FrontClass frontObject = new FrontClass();
+BackClass backObject = new BackClass();
