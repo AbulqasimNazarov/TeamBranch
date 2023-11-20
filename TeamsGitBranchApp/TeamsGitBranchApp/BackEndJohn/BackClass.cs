@@ -7,6 +7,6 @@ namespace TeamsGitBranchApp.BackEndJohn
 {
     public class BackClass
     {
-        
+        private int UserId { get; set; }
     }
 }
