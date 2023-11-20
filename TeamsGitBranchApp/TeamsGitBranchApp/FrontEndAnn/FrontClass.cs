@@ -7,6 +7,6 @@ namespace TeamsGitBranchApp.FrontEndAnn
 {
     public class FrontClass
     {
-        
+        public int ColorId { get; set; }
     }
 }
